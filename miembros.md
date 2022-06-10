@@ -17,4 +17,4 @@
 * Vision
 * Wasp
 * Antman
-* nick fury 
+* Nick fury 
